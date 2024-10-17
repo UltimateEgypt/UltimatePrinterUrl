@@ -1,10 +1,10 @@
 {
-    "arm64_v8a": "https://drive.google.com/file/d/1aTNQaV63BricuI5HxiJpu0K3bqKC6WSF/view?usp=drive_link",
-    "armeabi": "https://drive.google.com/file/d/1A8i3gPNhk7r1wdtRt0_ZckufR0f4xmwx/view?usp=drive_link",
-    "armeabi_v7a": "https://drive.google.com/file/d/1R8IHmnxhcChw8fWJrF0fbkYv4d1F41WB/view?usp=drive_link",
-    "mips": "https://drive.google.com/file/d/1tHUwU_Wmu78kMGlYeftdvGAk7KZ4FCk_/view?usp=drive_link",
-    "url": "https://drive.google.com/file/d/12Ev5Ia7LJMfeeIOrwsRjKh4Z1gIFGUXp/view?usp=drive_link",
-    "versionCode": 16,
-    "x86": "https://drive.google.com/file/d/1jjA3jT-XEo8TqMuLSOS8d638soMh4Fh_/view?usp=drive_link",
-    "x86_64": "https://drive.google.com/file/d/1nNnz-s58fajuwZnwo7quKmrcPKnYW7ha/view?usp=drive_link"
+"arm64-v8a": "https://drive.google.com/file/d/1aTNQaV63BricuI5HxiJpu0K3bqKC6WSF/view?usp=drivesdk",
+"armeabi": "https://drive.google.com/file/d/1A8i3gPNhk7r1wdtRt0_ZckufR0f4xmwx/view?usp=drivesdk",
+"armeabi-v7a": "https://drive.google.com/file/d/1R8IHmnxhcChw8fWJrF0fbkYv4d1F41WB/view?usp=drivesdk",
+"mips": "https://drive.google.com/file/d/1tHUwU_Wmu78kMGlYeftdvGAk7KZ4FCk_/view?usp=drivesdk",
+"url": "https://drive.google.com/file/d/12Ev5Ia7LJMfeeIOrwsRjKh4Z1gIFGUXp/view?usp=drivesdk",
+"versionCode": 16,
+"x86": "https://drive.google.com/file/d/1jjA3jT-XEo8TqMuLSOS8d638soMh4Fh_/view?usp=drivesdk",
+"x86_64": "https://drive.google.com/file/d/1nNnz-s58fajuwZnwo7quKmrcPKnYW7ha/view?usp=drivesdk"
 }
